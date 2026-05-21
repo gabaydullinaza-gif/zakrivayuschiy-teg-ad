@@ -2,11 +2,11 @@
 
 Одностраничный сайт, оформленный в виде карточек с описаниями этапов прохождения блока курса «Вёрстка».
 
-![image](https://github.com/gabaydullinaza-gif/zakrivayuschiy-teg-f/assets/38656496/62cc7697-7218-429f-adeb-d12733c92b8e)
+![image](https://github.com/Nigilen/zakrivayuschiy-teg-f/assets/38656496/62cc7697-7218-429f-adeb-d12733c92b8e)
 
 
 ## Деплой проекта
-[ссылка](https://github.com/gabaydullinaza-gif/zakrivayuschiy-teg-ad)
+[ссылка](https://nigilen.github.io/zakrivayuschiy-teg-f/)
 
 ## Используемые технологии
 - HTML
